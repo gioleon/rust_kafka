@@ -1,0 +1,9 @@
+[workspace]
+
+members = [
+  "consumer",
+  "producer",
+  "models",
+  "testing"
+]
+
